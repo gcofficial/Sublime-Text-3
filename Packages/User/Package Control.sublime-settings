@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ASCII Decorator",
+		"Case Conversion",
+		"DocBlockr",
+		"Emmet",
+		"Figlet Big ASCII Text",
+		"FileDiffs",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Insert Nums",
+		"JavaScript Completions",
+		"Minifier",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Pretty JSON",
+		"Tag",
+		"Theme - Spacegray",
+		"VAlign",
+		"WordPress"
+	]
+}

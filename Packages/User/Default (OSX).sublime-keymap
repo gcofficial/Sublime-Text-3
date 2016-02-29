@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+super+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+super+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["super+shift+r"], "command": "my_chained_actions" },
+]
